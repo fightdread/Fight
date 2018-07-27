@@ -1,0 +1,73 @@
+<dir>
+  <title>MOVIES</title>
+  <summary>MOVIES</summary>
+  <link>http://builds.kodiuk.tv/development/loki/MOVIES/main.xml</link>
+  
+</dir>  
+
+<dir>
+  <title>TV SHOWS</title>
+  <summary>TV SHOWS</summary>
+  <link>http://builds.kodiuk.tv/development/loki/TV%20SHOWS/main3.xml</link>
+</dir> 
+
+<dir>
+  <title>DOCUMENTARIES</title>
+  <summary>DOCUMENTARIES</summary>  
+  <link>http://builds.kodiuk.tv/development/loki/DOCS/main6.xml</link>
+</dir> 
+
+<dir>
+  <title>KIDS</title>
+  <summary>KIDS</summary>
+  <link>http://builds.kodiuk.tv/development/loki/KIDS/main4.xml</link>
+</dir>
+
+<dir>
+  <title>MUSIC</title>
+  <summary>MUSIC</summary>
+  <link>http://builds.kodiuk.tv/development/loki/MUSIC/main5.xml</link>
+</dir>
+
+<dir>
+  <title>KARAOKE</title>
+  <summary>KARAOKE</summary>
+  <link>http://builds.kodiuk.tv/development/loki/MUSIC/karaoke.xml</link>
+</dir>  
+
+<dir>
+<title>SPORT</title>
+<summary>SPORT</summary>
+<link>http://builds.kodiuk.tv/development/loki/sport/sport.xml</link>
+</dir>
+
+<dir>
+  <title>WWE</title>
+  <summary>WWE</summary>
+  <link>http://builds.kodiuk.tv/development/loki/WWE/mainwwe.xml</link>
+</dir>
+
+<dir>
+  <title>UFC</title>
+  <link>http://builds.kodiuk.tv/development/loki/ufc/ufc.xml</link>
+</dir>  
+
+<dir>
+  <title>LIVE PPV EVENTS</title>
+  <summary>LIVE PPV EVENTS</summary>
+  <link>http://builds.kodiuk.tv/development/loki/boxofficelive.xml</link>
+</dir>
+
+<plugin>
+  <title>Authorize Real Debrid</title>
+  <link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+  <thumbnail>https://imgur.com/svkHvy4.jpg</thumbnail>
+  <fanart>https://imgur.com/bAGG4Lg.jpg</fanart>
+</plugin>
+
+<item>
+  <title>SETTINGS</title>
+  <summary>SETTINGS</summary>
+  <mysettings>0/0</mysettings>
+  <info>Open the Settings</info>
+</item>
