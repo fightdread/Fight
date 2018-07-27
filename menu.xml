@@ -6,7 +6,7 @@
 </dir>  
 
 <dir>
-  <title>TV SHOWS</title>
+  <title>TV</title>
   <summary>TV SHOWS</summary>
   <link>http://builds.kodiuk.tv/development/loki/TV%20SHOWS/main3.xml</link>
 </dir> 
@@ -37,7 +37,7 @@
 
 <dir>
 <title>SPORT</title>
-<summary>SPORT</summary>
+<summary>SPORTS</summary>
 <link>http://builds.kodiuk.tv/development/loki/sport/sport.xml</link>
 </dir>
 
