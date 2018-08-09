@@ -18,12 +18,6 @@
 </dir> 
 
 <dir>
-  <title>KIDS</title>
-  <summary>KIDS</summary>
-  <link>http://builds.kodiuk.tv/development/loki/KIDS/main4.xml</link>
-</dir>
-
-<dir>
   <title>MUSIC</title>
   <summary>MUSIC</summary>
   <link>http://builds.kodiuk.tv/development/loki/MUSIC/main5.xml</link>
